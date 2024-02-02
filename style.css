@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+nav>ul{
+    display: flex;
+}
+ul>li{
+    list-style: none;
+    padding: 12px;
+}
+ul>li>a{
+    text-decoration: none;
+}
+nav{
+    background-color:rgb(240, 131, 166);
+}
